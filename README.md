@@ -13,7 +13,6 @@ Drybox Hygrometer holder - https://makerworld.com/en/models/659940-round-hygrome
 
 Hygrometer (these are everywhere) - https://www.amazon.com/dp/B098JFRNKM
 
-
 I bought the plans from Thera3D over on Cults3D. Since they are based in a metric country and I am in an SAE country, things aren't a perfect match, but the concept is good.
 
 I also needed to adapt my swatch system. Here is what the old solution looks like:
@@ -28,6 +27,14 @@ https://makerworld.com/en/models/980922-filament-clip-inner#profileId-954513
 And the new clip solution I built:
 
 ![Swatch Clips](IMG_8032.jpeg)
+
+## LED Solution
+
+There were a ton of options to make this work. I was in my local Target and saw these (https://www.target.com/p/govee-49-2--39--wi-fi-rgbic-led-strip-light--home-theater-bias-lighting/-/A-88232815) on the shelf and bought them. I think I will have some challenges with fine control via Home Assistant, but the base need of lighting up the cabinet on demand is met... and I can turn them on/off with Home Assistant locally, plus use the physical switch on the cabinet.
+
+I needed to cut them into lengths to fit on the inside of the doors, so I bought some connectors and wire: https://www.amazon.com/dp/B09M9KT9TQ and https://www.amazon.com/dp/B09Y8W7FVR
+
+Photos will go here when the solution is installed.
 
 ## Current Update (2026-04-05)
 
