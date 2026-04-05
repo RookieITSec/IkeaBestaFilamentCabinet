@@ -6,9 +6,13 @@ https://cults3d.com/en/3d-model/tool/ikea-besta-filament-dry-cabinet-stl-organiz
 ## Background
 
 My 3D filament collection is growing quickly, and the previous drybox solution I was using is not keeping up.  
+
 Drybox MakerWorld - https://makerworld.com/en/models/123487-drybox-sterilite-20-qt#profileId-133038
+
 Drybox Hygrometer holder - https://makerworld.com/en/models/659940-round-hygrometer-mount-for-drybox-sterelite-20qt#profileId-587090
+
 Hygrometer (these are everywhere) - https://www.amazon.com/dp/B098JFRNKM
+
 
 I bought the plans from Thera3D over on Cults3D. Since they are based in a metric country and I am in an SAE country, things aren't a perfect match, but the concept is good.
 
