@@ -28,15 +28,17 @@ Here is what some spools look like in there:
 ## Next Steps
 
 1. Pull the bottom middle shelf and install the rest of the brackets/rods.
-2. Figure out a stronger magnet/mechanical closure to better compress the weather stripping (in design).
-3. Figure out how to better weather seal between the glass doors (it's very tight at this time).
-4. Install the LEDs (waiting on some parts).
-5. Install two 1/2" wood dowels somewhere in the middle in place of the EMT Conduit. This is to keep the overall shelf system from bowing to the left/right as the IKEA shelves typically do this, but I removed them.
-6. Clean/Paint the conduit black to match the brackets.
-7. Install the mini Dehumidifier (https://www.amazon.com/dp/B00MQ7T038) on a Zigbee outlet (have on hand).
-8. Install two Zigbee humidistats (have on hand).
-9. Configure Home Assistant to control lights and the dehumidifier circuit.  
+2. Install the 3 door handles (Printed but need to be located/drilled/installed.
+3. Figure out a stronger magnet/mechanical closure to better compress the weather stripping (in design).
+4. Figure out how to better weather seal between the glass doors (it's very tight at this time).
+5. Install the LEDs (waiting on some parts).
+6. Install two 1/2" wood dowels somewhere in the middle in place of the EMT Conduit. This is to keep the overall shelf system from bowing to the left/right as the IKEA shelves typically do this, but I removed them.
+7. Clean/Paint the conduit black to match the brackets.
+8. Install the mini Dehumidifier (https://www.amazon.com/dp/B00MQ7T038) on a Zigbee outlet (have on hand).
+9. Install two Zigbee humidistats (have on hand).
+10. Configure Home Assistant to control lights and the dehumidifier circuit.  
 
 ## Future Revisions Possible
 
-1. Rear spools may need a rear support rather than pushing on the back wall.
+1. Rear spools may need a rear support rather than pushing on the back wall.  The rear support rod will likely need to be higher so the spools hit the rod and not the back.
+2. Update the 4 brackets to remove the rear support on each.  
