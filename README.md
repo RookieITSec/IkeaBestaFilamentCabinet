@@ -26,7 +26,7 @@ https://makerworld.com/en/models/980922-filament-clip-inner#profileId-954513
 
 And the new clip solution I built:
 
-![Swatch Clips](IMG_8032.jpeg)
+![Swatch Clips](IMG_8032.jpeg)  ![Clips](Clips.png)
 
 ## LED Solution
 
@@ -58,6 +58,12 @@ Here is what the current spacing looks like:
 Here is what some spools look like in there:
 
 ![Spacing](IMG_8024.jpeg)
+
+Here is a screencap of what the brackets look like.  
+
+![Brackets](Brackets.png)
+
+
 
 ## Next Steps
 
