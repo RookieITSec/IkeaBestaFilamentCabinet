@@ -36,7 +36,19 @@ I needed to cut them into lengths to fit on the inside of the doors, so I bought
 
 Photos will go here when the solution is installed.
 
-## Current Update (2026-04-05)
+## Current Update (2026-04-19)
+
+* All rods are painted.  Most are 1/2 EMT, but 2 are 1/2 wooden dowels that have screws through from the outside.  I drilled inside out and then installed the screw.  Dowels were also pre-drilled.  
+* LEDs are in process.
+* Uploaded [my stl files](https://github.com/RookieITSec/IkeaBestaFilamentCabinet/tree/main/half%20rods) for the holders by request.  These were printed in standard Bambu Basic PLA and seem to work fine.  Note - these are adapted from Thera3d's plans and I may remove these from here in the future.  
+* Progress photos -
+  
+![progress1](IMG_8146.jpeg)
+![progress2](IMG_8147.jpeg)
+![progress3](IMG_8148.jpeg)
+![progress4](IMG_8149.jpeg)
+
+## Update (2026-04-05)
 
 * Ikea shelf purchased and assembled.  
 * Rod Supports have been updated to support 1/2" EMT Conduit.  
