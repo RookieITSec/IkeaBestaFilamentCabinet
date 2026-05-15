@@ -86,6 +86,10 @@ I needed to cut them into lengths to fit on the inside of the doors, so I bought
 ![Progress Photo](IMG_8295.jpeg)
 ![Progress Photo](IMG_8296.jpeg)
 ![Home Assistant Dashboard Screenshot](Screenshot%202026-05-03%20225340.png)
+![Progress Photo](IMG_8454.jpg)
+![Progress Photo](IMG_8456.jpg)
+![Progress Photo](IMG_8457.jpg)
+![Progress Photo](IMG_8459.jpg)
 
 
 
